@@ -10,7 +10,7 @@ namespace Git6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, GitWorld02");
+            Console.WriteLine("Hello, GitWorld00002");
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
